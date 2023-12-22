@@ -1,0 +1,27 @@
+﻿  FormTree.cpp
+C:\Users\Женя\Downloads\TI\TI\FormTree.h(26,21): warning C4677: treeInstance: сигнатура члена, не являющегося частным, содержит частный тип сборки "Tree"
+  (компиляция исходного файла "FormTree.cpp")
+  C:\Users\Женя\Downloads\TI\TI\Tree.h(17,11):
+   см. объявление "Tree"
+  
+  MyForm.cpp
+C:\Users\Женя\Downloads\TI\TI\FormEncryption.h(460,14): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\Женя\Downloads\TI\TI\FormEncryption.h(464,21): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\Женя\Downloads\TI\TI\FormEncryption.h(517,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\Женя\Downloads\TI\TI\FormEncryption.h(520,28): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\Женя\Downloads\TI\TI\FormTree.h(26,21): warning C4677: treeInstance: сигнатура члена, не являющегося частным, содержит частный тип сборки "Tree"
+  (компиляция исходного файла "MyForm.cpp")
+  C:\Users\Женя\Downloads\TI\TI\Tree.h(17,11):
+   см. объявление "Tree"
+  
+  Создание кода...
+  FormTree.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  TI.vcxproj -> C:\Users\Женя\Downloads\TI\TI\x64\Debug\TI.exe

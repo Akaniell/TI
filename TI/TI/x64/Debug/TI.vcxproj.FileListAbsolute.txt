@@ -1,0 +1,7 @@
+C:\Users\Женя\Downloads\TI\TI\x64\Debug\TI.vcxproj.AssemblyReference.cache
+C:\Users\Женя\Downloads\TI\TI\x64\Debug\TI.exe
+C:\Users\Женя\Downloads\TI\TI\x64\Debug\TI.MyForm.resources
+C:\Users\Женя\Downloads\TI\TI\x64\Debug\TI.vcxproj.GenerateResource.cache
+C:\Users\Женя\Downloads\TI\TI\x64\Debug\TI.FormGraph.resources
+C:\Users\Женя\Downloads\TI\TI\x64\Debug\TI.FormEncryption.resources
+C:\Users\Женя\Downloads\TI\TI\x64\Debug\TI.FormTree.resources

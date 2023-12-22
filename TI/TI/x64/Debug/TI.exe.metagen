@@ -1,0 +1,57 @@
+  TI.FormEncryption.resources - Embedded, ContainedInManifestFile, 
+  TI.FormGraph.resources - Embedded, ContainedInManifestFile, 
+  TI.FormTree.resources - Embedded, ContainedInManifestFile, 
+  TI.MyForm.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly TI, Version=0.0.*, Culture=Инвариантный язык (Инвариантная страна): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class TI.FormTree: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Tree treeInstance : Public
+    tnode* root : Public
+    Int32 tempNode : Public
+    Int32 point : Public
+    Int32 tempAddInput : Public
+    Int32 tempRemoveInput : Public
+Class TI.FormGraph: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 Vertixes_ : Public
+    Int32 MatrixType_ : Public
+    Int32** AdjacencyMatrix_ : Public
+    Int32** AdjacencyList_ : Public
+    Int32** IncidenceMatrix_ : Public
+    Int32 Edges_ : Public
+    Int32 First_ : Public
+    Int32 Second_ : Public
+    Int32 cFirst_ : Public
+    Int32 cSecond_ : Public
+    Int32 MAX : Public
+    Int32 CurrentPossition_ : Public
+    Int32 type : Public
+Class TI.FormEncryption: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String Input_ : Public
+    Int32 DictionarySize_ : Public
+    Int32 BufferSize_ : Public
+    Int32 Type_ : Public
+Class TI.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
